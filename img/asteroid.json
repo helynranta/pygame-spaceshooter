@@ -1,0 +1,28 @@
+{"frames": {
+
+"asteroid.png":
+{
+	"frame": {"x":2,"y":133,"w":116,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":41,"w":116,"h":126},
+	"sourceSize": {"w":206,"h":204}
+},
+"asteroid2.png":
+{
+	"frame": {"x":2,"y":2,"w":116,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":30,"w":116,"h":129},
+	"sourceSize": {"w":194,"h":187}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "asteroid.png",
+	"format": "RGBA8888",
+	"size": {"w":120,"h":266},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:bcf9a5de7ef80701f5576612484de833:2a599150601e12e7ba5b8b835e5d03cf:72395ded8ea611411653fd8def130aa2$"
+}
+}
